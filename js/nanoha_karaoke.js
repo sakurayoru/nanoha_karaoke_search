@@ -8,10 +8,8 @@ function song_button(){
     let id="",use="",ok=""
     var result = request.response
     id =document.getElementById("device").selectedIndex
-    console.log("id="+id)
     var result = request.response
     var nor = Object.keys(result).length
-    console.log("nor="+nor)
     for (let i = 0; i < nor; i++) {
         const j = result[i].use // use 取り出し
         let k = j.match(/.{1}/g) // 1桁区切り
