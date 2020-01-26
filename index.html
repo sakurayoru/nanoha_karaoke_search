@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Content-Script-Type" content="text/javascript">
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@kk16p586" />
+    <meta property="og:url" content="nanoha_karaoke_search.netlify.com/nanoha_karaoke.html" />
+    <meta property="og:title" content="機種別なのは楽曲リスト表示システム" />
+    <meta property="og:description" content="機種別なのは楽曲リスト表示システムです。" />
+    <!-- <meta property="og:image" content="https://nanoha_karaoke_search.netlify.com/img/nanoha_karaoke.png" /> -->
+    <link rel="stylesheet" href="./css/css01.css" type="text/css">
+    <link rel="apple-touch-icon" sizes="180x180" href="./img/favicon.png">
+    <link rel="icon" type="image/png" href="./img/favicon.png">
+    <base target="_blank" rel="noopener noreferrer">
+    <script type="text/javascript" src="./js/nanoha_karaoke.js"></script>
+    <title>
+        機種別なのは楽曲リスト表示システム
+    </title>
+</head>
+<body>
+    <h1 class="nobr">
+        機種別<wbr>なのは<wbr>楽曲リスト<wbr>表示システム
+    </h1>
+
+    <h2 class="nobr">
+        なのは楽曲が<wbr>通信カラオケの<wbr>どのカラオケ機種で<wbr>歌えるかを<wbr>調べられる<wbr>ページです。<br>
+        データは、<wbr>2020/1/24<wbr>時点でのものです。
+    </h2>
+
+    <h3 class="nobr">
+        対応楽曲は、<wbr>魔法少女<wbr>リリカルなのは <wbr>キャラクターソング <wbr>
+        コンプリートBOX<wbr>に収録されている<wbr>楽曲と、<wbr>各作品の<wbr>主題歌が<wbr>
+        <wbr>検索対象です。<hr>
+        検索可能機種は、<wbr>HyperJoyV2,<wbr>HyperJoyWAVE,<wbr>JOYSOUND CROSSO,<wbr>
+        JOYSOUND f1,<wbr>JOYSOUND MAX,<wbr>JOYSOUND MAX 2,<wbr>JOYSOUND MAX GO<wbr>
+        (最新機種)<br>
+        JOYSOUND JEWEL<wbr>(WAVEベース),<wbr>JOYSOUND 響<wbr>(MAXベース),<wbr>
+        JOYSOUND 響Ⅱ<wbr>(MAX2ベース),<br>
+        BB cyber DAM,<wbr>Premier DAM,<wbr>LIVE DAM,<wbr>LIVE DAM STADIUM<wbr>
+        (STAGE含む),<wbr>LIVE DAM Ai<wbr>(最新機種),<br>
+        cyber DAM G70,<wbr>Party DAM V,<wbr>CYBER DAM α,<wbr>Cyber DAM HD,<wbr>
+        Party DAM HD,<wbr>FREE DAM HD,<wbr>Party DAM 20V<wbr>です。<hr>
+        <select id="device">
+            <option>DAMで歌える</option>
+            <option>DAMで歌える</option>
+            <option>DAMで歌える</option>
+            <option>JOYSOUNDで歌える</option>
+            <option>DAMで歌える</option>
+            <option>両方で歌える</option>
+            <option>両方で歌えない</option>
+            <option>[2003]Hyper Joy V2で歌える</option>
+            <option>[2006]Hyper Joy WAVEで歌える</option>
+            <option>[2009]CROSSOで歌える</option>
+            <option>[2012]JOYSOUND f1で歌える</option>
+            <option>[2015]JOYSOUND MAXで歌える</option>
+            <option>[2017]JOYSOUND MAX 2で歌える</option>
+            <option>[2019]JOYSOUND MAX GOで歌える</option>
+            <option>[2008]JOYSOUND JEWELで歌える</option>
+            <option>[2012]JOYSOUND fRで歌える</option>
+            <option>[2015]JOYSOUND 響で歌える</option>
+            <option>[2019]JOYSOUND 響Ⅱで歌える</option>
+            <option>[2003]BB cyber DAMで歌える</option>
+            <option>[2007]Premier DAMで歌える</option>
+            <option>[2010]LIVE DAMで歌える</option>
+            <option>[2015]LIVE DAM STADIUMで歌える</option>
+            <option>[2019]LIVE DAM Aiで歌える</option>
+            <option>[2005]DAM G70で歌える</option>
+            <option>[2008]Party DAM Vで歌える</option>
+            <option>[2010]CYBER DAM αで歌える</option>
+            <option>[2012]Cyber DAM HDで歌える</option>
+            <option>[2013]Party DAM HDで歌える</option>
+            <option>[2016]FREE DAM HDで歌える</option>
+            <option>[2018]Party DAM 20Vで歌える</option>
+        </select>
+        <input type="button" value="曲" onclick="song_button()">
+                
+    </h3>
+
+    <h4>
+        <span id="songs"></span>
+    </h4>
+
+    <h5 class="nobr">
+        <hr>
+        作者: <a href="https://sakurayoru.dev">
+            さくら夜
+        </a> <wbr><a href="https://github.com/sakurayoru">
+            GitHub
+        </a> <wbr><a href="http://twitter.com/kk16p586">
+            Twitter
+        </a>
+    </h5>
+</body>
+</html>
