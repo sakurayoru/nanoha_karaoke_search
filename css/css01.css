@@ -15,74 +15,9 @@ h1, h2, h3, h4, h5 {
     text-align: center;
 }
 
-/*  幅寄せ
-    class="l,c,r"で指定 */
-
-.l {
-    text-align: left;
-}
-
-.c {
-    text-align: center;
-}
-
-.r {
-    text-align: right;
-}
-
 /*  改行禁止
     class="nobr" */
 
 .nobr {
     word-break: keep-all;
-}
-
-/* 画像の最大幅 */
-
-img {
-    max-width: 100%;
-}
-
-/*  Blink
-    class="bink" */
-
-.blink {
-    animation: 0.5s linear infinite blink_effect;
-}
-
-@keyframes blink_effect {
-    0% {
-        visibility: hidden;
-    }
-    50% {
-        visibility: hidden;
-    }
-    100% {
-        visibility: visible;
-    }
-}
-
-/*  marquee
-    class="marquee-anim" */
-
-.marquee-anim {
-    overflow: hidden;
-}
-
-.marquee-anim p {
-    display: inline-block;
-    padding-left: 100%;
-    white-space: nowrap;
-    animation: marquee 3s linear infinite;
-    font-size: 150%;
-    margin: 0px;
-}
-
-@keyframes marquee {
-    from {
-        transform: translate(0);
-    }
-    to {
-        transform: translate(-100%);
-    }
 }
