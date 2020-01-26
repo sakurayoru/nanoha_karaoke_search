@@ -24,16 +24,16 @@ function song_button(){
 window.onload=function(){
     URL="https://nanoha-karaoke-search.netlify.com/"
     TITLE="機種別なのは楽曲リスト表示システム"
+    browser="?openExternalBrowser=1"
     twitter="https://twitter.com/intent/tweet?text="
-    +TITLE+"%0A&url="+URL
+    +TITLE+"%0A&url="+URL+browser
     +"&original_referer=https://twitter.com/share?text="
-    +TITLE+"%0A&url="+URL+"&openExternalBrowser=1"
-    FB="https://www.facebook.com/share.php?u="
-    +URL+"&openExternalBrowser=1"
+    +TITLE+"%0A&url="+URL+browser
+    FB="https://www.facebook.com/share.php?u="+URL+browser
     LINE="https://social-plugins.line.me/lineit/share?text="
-    +TITLE+"%0A&url="+URL+"&openExternalBrowser=1"
+    +TITLE+"%0A&url="+URL+browser
     hatena="https://b.hatena.ne.jp/entry/panel/?mode=confirm&title="
-    +TITLE+"%0A&url="+URL+"&openExternalBrowser=1"
+    +TITLE+"%0A&url="+URL+browser
 
     share="<a href='"+twitter+"'>Twitter</a> <a href='"
     +FB+"'>FaceBook</a> <a href='"+LINE+"'>LINE</a> <a href='"
