@@ -38,9 +38,11 @@ window.onload=function(){
     hatena="https://b.hatena.ne.jp/entry/panel/?mode="+
     `confirm&title${TITLE}%0A&url=${URL}`
 
-    share="<a href='"+twitter+"'>Twitter</a> <a href='"
-    +FB+"'>FaceBook</a> <a href='"+LINE+"'>LINE</a> <a href='"
-    +hatena+"'>hatena</a>"
+    share="<a href='"+
+    `${twitter}'>Twitter</a>　<a href='`+
+    `${FB}'>FaceBook</a>　<a href='`+
+    `${LINE}'>LINE</a>　<a href='`+
+    `${hatena}'>hatena</a>`
     document.getElementById("top-share").innerHTML=share
     document.getElementById("buttom-share").innerHTML=share
 }
