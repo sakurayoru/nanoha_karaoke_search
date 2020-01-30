@@ -9,6 +9,11 @@ body {
     text-align: left;
 }
 
+ /* ブロック要素にclass="mb1" */
+.mb1{
+    margin-bottom:1em;
+ }
+
 /* hタグセンタリング */
 
 h1, h2, h3, h4, h5 {
