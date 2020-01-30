@@ -1,306 +1,750 @@
 [
     {
-        "song_name": "<p>コンプリートBOX</p>",
-        "use": "1111111111111111111111111111"
+        "song_name": "主題歌等",
+        "use": "1111111111111111111111111111",
+        "artist_name":"",
+        "JOYURL":"",
+        "DAMURL":""
     },
     {
-        "song_name": "Precious time<br><a href='https://www.joysound.com/web/search/song/133440'>JOYSOUND</a><br><br>",
-        "use": "1000011111110000000000000000"
+        "song_name": "innocent starter",
+        "use": "1111011111110111111111111111",
+        "artist_name":"水樹奈々",
+        "JOYURL":"46789",
+        "DAMURL":"2859307"
     },
     {
-        "song_name": "きっとStand by you<br><a href='https://www.joysound.com/web/search/song/147598'>JOYSOUND</a><br><br>",
-        "use": "1000011111110000000000000000"
+        "song_name": "Little Wish 〜lyrical step〜",
+        "use": "1111011111110001111111111111",
+        "artist_name":"田村ゆかり",
+        "JOYURL":"58792",
+        "DAMURL":"2860211"
     },
     {
-        "song_name": "Flying high!<br><a href='https://www.joysound.com/web/search/song/143839'>JOYSOUND</a>　<a href='https://www.clubdam.com/app/leaf/songKaraokeLeaf.html?contentsId=4563991'>DAM</a><br><br>",
-        "use": "1101011111110000111111011000"
+        "song_name": "Take a shot",
+        "use": "1111011111110001111110010011",
+        "artist_name":"水樹奈々",
+        "JOYURL":"58907",
+        "DAMURL":"3717883"
     },
     {
-        "song_name": "優しい夢を見れるよう<br><a href='https://www.joysound.com/web/search/song/129899'>JOYSOUND</a><br><br>",
-        "use": "1000011111110000000000000000"
+        "song_name": "ETERNAL BLAZE",
+        "use": "1111011111111111111111111111",
+        "artist_name":"水樹奈々",
+        "JOYURL":"72465",
+        "DAMURL":"3639657"
     },
     {
-        "song_name": "同じ勇気<br><a href='https://www.joysound.com/web/search/song/152297'>JOYSOUND</a><br><br>",
-        "use": "1000011111110000000000000000"
+        "song_name": "Spiritual Garden",
+        "use": "1111011111110001111110001001",
+        "artist_name":"田村ゆかり",
+        "JOYURL":"72407",
+        "DAMURL":"3631970"
     },
     {
-        "song_name": "Wish<br><a href='https://www.joysound.com/web/search/song/59149'>JOYSOUND</a>　<a href='https://www.clubdam.com/app/leaf/songKaraokeLeaf.html?contentsId=3777902'>DAM</a><br><br>",
-        "use": "1111011111110000111110011001"
+        "song_name": "BRAVE PHOENIX",
+        "use": "1111011111110001111110001011",
+        "artist_name":"水樹奈々",
+        "JOYURL":"77843",
+        "DAMURL":"3831488"
     },
     {
-        "song_name": "笑顔になあれ<br><a href='https://www.joysound.com/web/search/song/142365'>JOYSOUND</a><br><br>",
-        "use": "1010011111110000000000000000"
+        "song_name": "SECRET AMBITION",
+        "use": "1111011111111111111111111111",
+        "artist_name":"水樹奈々",
+        "JOYURL":"101217",
+        "DAMURL":"4376574"
     },
     {
-        "song_name": "君の空に<br><a href='https://www.joysound.com/web/search/song/143470'>JOYSOUND</a><br><br>",
-        "use": "1000011111110000000000000000"
+        "song_name": "MASSIVE WONDERS",
+        "use": "1111011111110111111111100111",
+        "artist_name":"水樹奈々",
+        "JOYURL":"106819",
+        "DAMURL":"4512762"
     },
     {
-        "song_name": "Skyblue gradation<br><a href='https://www.joysound.com/web/search/song/111987'>JOYSOUND</a>　<a href='https://www.clubdam.com/app/leaf/songKaraokeLeaf.html?contentsId=4563992'>DAM</a><br><br>",
-        "use": "1111011111110000111111001000"
+        "song_name": "星空のSpica",
+        "use": "1111011111110111111111111111",
+        "artist_name":"田村ゆかり",
+        "JOYURL":"103351",
+        "DAMURL":"4438334"
     },
     {
-        "song_name": "愛しさと優しさと<br><a href='https://www.joysound.com/web/search/song/149726'>JOYSOUND</a><br><br>",
-        "use": "1010011111110000000000000000"
+        "song_name": "Beautiful Amulet",
+        "use": "1111011111110111111111111111",
+        "artist_name":"田村ゆかり",
+        "JOYURL":"106457",
+        "DAMURL":"4498620"
     },
     {
-        "song_name": "BRAVE HEARTs<br><a href='https://www.joysound.com/web/search/song/118346'>JOYSOUND</a>　<a href='https://www.clubdam.com/app/leaf/songKaraokeLeaf.html?contentsId=3823184'>DAM</a><br><br>",
-        "use": "1101011111110000111110011000"
+        "song_name": "Pray",
+        "use": "1111011111110111111111001111",
+        "artist_name":"水樹奈々",
+        "JOYURL":"109321",
+        "DAMURL":"4623210"
     },
     {
-        "song_name": "旅の標<br><a href='https://www.joysound.com/web/search/song/153189'>JOYSOUND</a><br><br>",
-        "use": "1010011111110000000000000000"
+        "song_name": "Angel Blossom",
+        "use": "1111011111111111111111111111",
+        "artist_name":"水樹奈々",
+        "JOYURL":"419962",
+        "DAMURL":"5555837"
+    },
+    {
+        "song_name": "Pleasure treasure",
+        "use": "1111011111111111111111111111",
+        "artist_name":"田村ゆかり",
+        "JOYURL":"419289",
+        "DAMURL":"5546528"
+    },
+    {
+        "song_name": "Future Strike",
+        "use": "1111000111110101011110001000",
+        "artist_name":"小倉唯",
+        "JOYURL":"593642",
+        "DAMURL":"5640382"
+    },
+    {
+        "song_name": "Starry Wish",
+        "use": "1111000111110101011110001000",
+        "artist_name":"水瀬いのり",
+        "JOYURL":"593646",
+        "DAMURL":"5641595"
+    },
+    {
+        "song_name": "PHANTOM MINDS",
+        "use": "1111011111110111111111111111",
+        "artist_name":"水樹奈々",
+        "JOYURL":"146556",
+        "DAMURL":"4856016"
+    },
+    {
+        "song_name": "My wish My love",
+        "use": "1111011111110111111111111111",
+        "artist_name":"田村ゆかり",
+        "JOYURL":"147359",
+        "DAMURL":"4860301"
+    },
+    {
+        "song_name": "Don't be long",
+        "use": "1111011111110001111111111111",
+        "artist_name":"水樹奈々",
+        "JOYURL":"146557",
+        "DAMURL":"4856112"
+    },
+    {
+        "song_name": "BRIGHT STREAM",
+        "use": "1111011111111111111111111111",
+        "artist_name":"水樹奈々",
+        "JOYURL":"231845",
+        "DAMURL":"5160182"
+    },
+    {
+        "song_name": "微笑みのプルマージュ",
+        "use": "1111011111111111111111111111",
+        "artist_name":"田村ゆかり",
+        "JOYURL":"232217",
+        "DAMURL":"5167886"
+    },
+    {
+        "song_name": "Sacred Force",
+        "use": "1111011111111111111111111111",
+        "artist_name":"水樹奈々",
+        "JOYURL":"231879",
+        "DAMURL":"5160187"
+    },
+    {
+        "song_name": "Destiny's Prelude",
+        "use": "1111011111111111111111111111",
+        "artist_name":"水樹奈々",
+        "JOYURL":"631724",
+        "DAMURL":"5685070"
+    },
+    {
+        "song_name": "Invisible Heat",
+        "use": "1111011111111111011110011000",
+        "artist_name":"水樹奈々",
+        "JOYURL":"635267",
+        "DAMURL":"5685071"
+    },
+    {
+        "song_name": "NEVER SURRENDER",
+        "use": "1111001111111111111111111111",
+        "artist_name":"水樹奈々",
+        "JOYURL":"707174",
+        "DAMURL":"5753207"
+    },
+    {
+        "song_name": "GET BACK",
+        "use": "1111001111111111011110011000",
+        "artist_name":"水樹奈々",
+        "JOYURL":"707175",
+        "DAMURL":"5756142"
+    },
+    {
+        "song_name": "ゲーム主題歌",
+        "use": "1111111111111111111111111111",
+        "artist_name":"",
+        "JOYURL":"",
+        "DAMURL":""
+    },
+    {
+        "song_name": "Silent Bible",
+        "use": "1111011111111111111111111111",
+        "artist_name":"水樹奈々",
+        "JOYURL":"147208",
+        "DAMURL":"4862039"
+    },
+    {
+        "song_name": "Tiny Rainbow",
+        "use": "1111011111110001111110001000",
+        "artist_name":"田村ゆかり",
+        "JOYURL":"149002",
+        "DAMURL":"4861977"
+    },
+    {
+        "song_name": "ROMANCERS' NEO",
+        "use": "1111011111111111111111111111",
+        "artist_name":"水樹奈々",
+        "JOYURL":"185738",
+        "DAMURL":"5088153"
+    },
+    {
+        "song_name": "滑空の果てのイノセント",
+        "use": "1111011111110001000110000000",
+        "artist_name":"田村ゆかり",
+        "JOYURL":"223160",
+        "DAMURL":"5764600"
+    },
+    {
+        "song_name": "コンプリートBOX",
+        "use": "1111111111111111111111111111",
+        "artist_name":"",
+        "JOYURL":"",
+        "DAMURL":""
+    },
+    {
+        "song_name": "Precious time",
+        "use": "1000011111110000000000000000",
+        "artist_name":"アリサ・バニングス",
+        "JOYURL":"133440",
+        "DAMURL":""
+    },
+    {
+        "song_name": "きっとStand by you",
+        "use": "1000011111110000000000000000",
+        "artist_name":"月村すずか",
+        "JOYURL":"147598",
+        "DAMURL":""
+    },
+    {
+        "song_name": "Flying high!",
+        "use": "1101011111110000111111011000",
+        "artist_name":"高町なのは",
+        "JOYURL":"143839",
+        "DAMURL":"4563991"
+    },
+    {
+        "song_name": "優しい夢を見れるよう",
+        "use": "1000011111110000000000000000",
+        "artist_name":"リニス",
+        "JOYURL":"129899",
+        "DAMURL":""
+    },
+    {
+        "song_name": "同じ勇気",
+        "use": "1000011111110000000000000000",
+        "artist_name":"アルフ",
+        "JOYURL":"152297",
+        "DAMURL":""
+    },
+    {
+        "song_name": "Wish",
+        "use": "1111011111110000111110011001",
+        "artist_name":"フェイト・テスタロッサ",
+        "JOYURL":"59149",
+        "DAMURL":"3777902"
+    },
+    {
+        "song_name": "笑顔になあれ",
+        "use": "1010011111110000000000000000",
+        "artist_name":"高町なのは",
+        "JOYURL":"142365",
+        "DAMURL":""
+    },
+    {
+        "song_name": "君の空に",
+        "use": "1000011111110000000000000000",
+        "artist_name":"ユーノ・スクライア",
+        "JOYURL":"143470",
+        "DAMURL":""
+    },
+    {
+        "song_name": "Skyblue gradation",
+        "use": "1111011111110000111111001000",
+        "artist_name":"フェイト・テスタロッサ",
+        "JOYURL":"111987",
+        "DAMURL":"4563992"
+    },
+    {
+        "song_name": "愛しさと優しさと",
+        "use": "1010011111110000000000000000",
+        "artist_name":"八神はやて",
+        "JOYURL":"149726",
+        "DAMURL":""
+    },
+    {
+        "song_name": "BRAVE HEARTs",
+        "use": "1101011111110000111110011000",
+        "artist_name":"高町なのは",
+        "JOYURL":"118346",
+        "DAMURL":"3823184"
+    },
+    {
+        "song_name": "旅の標",
+        "use": "1010011111110000000000000000",
+        "artist_name":"シャマル",
+        "JOYURL":"153189",
+        "DAMURL":""
     },
     {
         "song_name": "無限の旅路~友へ~",
-        "use": "0000100000000000000000000000"
+        "use": "0000100000000000000000000000",
+        "artist_name":"シグナム",
+        "JOYURL":"",
+        "DAMURL":""
     },
     {
-        "song_name": "翼<br><a href='https://www.clubdam.com/app/leaf/songKaraokeLeaf.html?contentsId=3861531'>DAM</a><br><br>",
-        "use": "0100000000000000111110011000"
+        "song_name": "翼",
+        "use": "0100000000000000111110011000",
+        "artist_name":"フェイト・テスタロッサ",
+        "JOYURL":"",
+        "DAMURL":"3861531"
     },
     {
-        "song_name": "Snow Rain<br><a href='https://www.clubdam.com/app/leaf/songKaraokeLeaf.html?contentsId=3943214'>DAM</a><br><br>",
-        "use": "0100000000000000111111011001"
+        "song_name": "Snow Rain",
+        "use": "0100000000000000111111011001",
+        "artist_name":"八神はやて",
+        "JOYURL":"",
+        "DAMURL":"3943214"
     },
     {
-        "song_name": "あなたがくれた空<br><a href='https://www.joysound.com/web/search/song/151560'>JOYSOUND</a>　<a href='https://www.clubdam.com/app/leaf/songKaraokeLeaf.html?contentsId=4582425'>DAM</a><br><br>",
-        "use": "1111011111110000111110001000"
+        "song_name": "あなたがくれた空",
+        "use": "1111011111110000111110001000",
+        "artist_name":"八神はやて",
+        "JOYURL":"151560",
+        "DAMURL":"4582425"
     },
     {
-        "song_name": "風に舞う花<br><a href='https://www.joysound.com/web/search/song/112696'>JOYSOUND</a>　<a href='https://www.clubdam.com/app/leaf/songKaraokeLeaf.html?contentsId=4582423'>DAM</a><br><br>",
-        "use": "1111011111110000111110001000"
+        "song_name": "風に舞う花",
+        "use": "1111011111110000111110001000",
+        "artist_name":"フェイト・テスタロッサ",
+        "JOYURL":"112696",
+        "DAMURL":"4582423"
     },
     {
-        "song_name": "STARTing STARS<br><a href='https://www.joysound.com/web/search/song/123266'>JOYSOUND</a>　<a href='https://www.clubdam.com/app/leaf/songKaraokeLeaf.html?contentsId=4582424'>DAM</a><br><br>",
-        "use": "1111011111110000111110001000"
+        "song_name": "STARTing STARS",
+        "use": "1111011111110000111110001000",
+        "artist_name":"高町なのは",
+        "JOYURL":"123266",
+        "DAMURL":"4582424"
     },
     {
         "song_name": "Flying high! (Lyrical Pop style)",
-        "use": "0000100000000000000000000000"
+        "use": "0000100000000000000000000000",
+        "artist_name":"高町なのは",
+        "JOYURL":"",
+        "DAMURL":""
     },
     {
         "song_name": "笑顔になあれ (Sweet mix)",
-        "use": "0000100000000000000000000000"
+        "use": "0000100000000000000000000000",
+        "artist_name":"高町なのは",
+        "JOYURL":"",
+        "DAMURL":""
     },
     {
         "song_name": "BRAVE HEARTs (Cyber mix)",
-        "use": "0000100000000000000000000000"
+        "use": "0000100000000000000000000000",
+        "artist_name":"高町なのは",
+        "JOYURL":"",
+        "DAMURL":""
     },
     {
         "song_name": "STARTing STARS (Starlight mix)",
-        "use": "0000100000000000000000000000"
+        "use": "0000100000000000000000000000",
+        "artist_name":"高町なのは",
+        "JOYURL":"",
+        "DAMURL":""
     },
     {
         "song_name": "翼 (Heartful mix)",
-        "use": "0000100000000000000000000000"
+        "use": "0000100000000000000000000000",
+        "artist_name":"フェイト・テスタロッサ",
+        "JOYURL":"",
+        "DAMURL":""
     },
     {
         "song_name": "Skyblue gradation (Summertime edit)",
-        "use": "0000100000000000000000000000"
+        "use": "0000100000000000000000000000",
+        "artist_name":"フェイト・テスタロッサ",
+        "JOYURL":"",
+        "DAMURL":""
     },
     {
         "song_name": "風に舞う花 (Flower mix)",
-        "use": "0000100000000000000000000000"
+        "use": "0000100000000000000000000000",
+        "artist_name":"フェイト・テスタロッサ",
+        "JOYURL":"",
+        "DAMURL":""
     },
     {
         "song_name": "Wish (Memories mix)",
-        "use": "0000100000000000000000000000"
+        "use": "0000100000000000000000000000",
+        "artist_name":"フェイト・テスタロッサ",
+        "JOYURL":"",
+        "DAMURL":""
     },
     {
         "song_name": "愛しさと優しさと (Pia edit)",
-        "use": "0000100000000000000000000000"
+        "use": "0000100000000000000000000000",
+        "artist_name":"八神はやて",
+        "JOYURL":"",
+        "DAMURL":""
     },
     {
         "song_name": "あなたがくれた空 (Windy style)",
-        "use": "0000100000000000000000000000"
+        "use": "0000100000000000000000000000",
+        "artist_name":"八神はやて",
+        "JOYURL":"",
+        "DAMURL":""
     },
     {
         "song_name": "Snow Rain (Ather approach)",
-        "use": "0000100000000000000000000000"
+        "use": "0000100000000000000000000000",
+        "artist_name":"八神はやて",
+        "JOYURL":"",
+        "DAMURL":""
     },
     {
-        "song_name": "空色の約束<br><a href='https://www.joysound.com/web/search/song/201820'>JOYSOUND</a>　<a href='https://www.clubdam.com/app/leaf/songKaraokeLeaf.html?contentsId=4574332'>DAM</a><br><br>",
-        "use": "1101000011110101111110001000"
+        "song_name": "空色の約束",
+        "use": "1101000011110101111110001000",
+        "artist_name":"スバル・ナカジマ",
+        "JOYURL":"201820",
+        "DAMURL":"4574332"
     },
     {
-        "song_name": "星に祈りを<br><a href='https://www.joysound.com/web/search/song/201821'>JOYSOUND</a>　<a href='https://www.clubdam.com/app/leaf/songKaraokeLeaf.html?contentsId=4574333'>DAM</a><br><br>",
-        "use": "1101000011110111111110001000"
+        "song_name": "星に祈りを",
+        "use": "1101000011110111111110001000",
+        "artist_name":"八神はやて",
+        "JOYURL":"201821",
+        "DAMURL":"4574333"
     },
     {
-        "song_name": "魔法の言葉~Lyrical harmony~<br><a href='https://www.joysound.com/web/search/song/106023'>JOYSOUND</a>　<a href='https://www.clubdam.com/app/leaf/songKaraokeLeaf.html?contentsId=4574334'>DAM</a><br><br>",
-        "use": "1111011111110000111110001000"
+        "song_name": "魔法の言葉~Lyrical harmony~",
+        "use": "1111011111110000111110001000",
+        "artist_name":"高町なのは",
+        "JOYURL":"106023",
+        "DAMURL":"4574334"
     },
     {
-        "song_name": "あなたの笑顔に<br><a href='https://www.joysound.com/web/search/song/115868'>JOYSOUND</a>　<a href='https://www.clubdam.com/app/leaf/songKaraokeLeaf.html?contentsId=4589471'>DAM</a><br><br>",
-        "use": "1111011111110000111110001000"
+        "song_name": "あなたの笑顔に",
+        "use": "1111011111110000111110001000",
+        "artist_name":"高町なのは",
+        "JOYURL":"115868",
+        "DAMURL":"4589471"
     },
     {
-        "song_name": "いつの日か<br><a href='https://www.joysound.com/web/search/song/115869'>JOYSOUND</a>　<a href='https://www.clubdam.com/app/leaf/songKaraokeLeaf.html?contentsId=4589472'>DAM</a><br><br>",
-        "use": "1111011111110000111110001000"
+        "song_name": "いつの日か",
+        "use": "1111011111110000111110001000",
+        "artist_name":"キャロ・ル・ルシエ",
+        "JOYURL":"115869",
+        "DAMURL":"4589472"
     },
     {
-        "song_name": "Present<br><a href='https://www.joysound.com/web/search/song/115870'>JOYSOUND</a>　<a href='https://www.clubdam.com/app/leaf/songKaraokeLeaf.html?contentsId=4589473'>DAM</a><br><br>",
-        "use": "1111011111110000111110001000"
+        "song_name": "Present",
+        "use": "1111011111110000111110001000",
+        "artist_name":"フェイト・T・ハラオウン",
+        "JOYURL":"115870",
+        "DAMURL":"4589473"
     },
     {
-        "song_name": "2人の翼<br><a href='https://www.joysound.com/web/search/song/115074'>JOYSOUND</a>　<a href='https://www.clubdam.com/app/leaf/songKaraokeLeaf.html?contentsId=4668434'>DAM</a><br><br>",
-        "use": "1111011111110000111110001000"
+        "song_name": "2人の翼",
+        "use": "1111011111110000111110001000",
+        "artist_name":"ティアナ・ランスター",
+        "JOYURL":"115074",
+        "DAMURL":"4668434"
     },
     {
-        "song_name": "あなたを想う<br><a href='https://www.joysound.com/web/search/song/202799'>JOYSOUND</a>　<a href='https://www.clubdam.com/app/leaf/songKaraokeLeaf.html?contentsId=4668446'>DAM</a><br><br>",
-        "use": "1101000011110111111111001000"
+        "song_name": "あなたを想う",
+        "use": "1101000011110111111111001000",
+        "artist_name":"八神はやて",
+        "JOYURL":"202799",
+        "DAMURL":"4668446"
     },
     {
-        "song_name": "小さな誓い<br><a href='https://www.joysound.com/web/search/song/225462'>JOYSOUND</a>　<a href='https://www.clubdam.com/app/leaf/songKaraokeLeaf.html?contentsId=4668447'>DAM</a><br><br>",
-        "use": "1111001111110000111111000001"
+        "song_name": "小さな誓い",
+        "use": "1111001111110000111111000001",
+        "artist_name":"リインフォースⅡ",
+        "JOYURL":"225462",
+        "DAMURL":"4668447"
     },
     {
-        "song_name": "My Friendhttps://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=2635-25'>DAM</a><br><br>",
-        "use": "0000100000000000000000000000"
+        "song_name": "真紅の花",
+        "use": "0000100000000000000000000000",
+        "artist_name":"ヴィータ",
+        "JOYURL":"",
+        "DAMURL":""
     },
     {
-        "song_name": "To The Real<br><a href='https://www.joysound.com/web/search/song/152422'>JOYSOUND</a><br><br>",
-        "use": "1010011111110000000000000000"
+        "song_name": "To The Real",
+        "use": "1010011111110000000000000000",
+        "artist_name":"スバル・ナカジマ<br>&ティアナ・ランスター<br>&エリオ・モンディアル<br>&キャロ・ル・ルシエ",
+        "JOYURL":"152422",
+        "DAMURL":""
     },
     {
-        "song_name": "Endless Chain<br><a href='https://www.joysound.com/web/search/song/223227'>JOYSOUND</a><br><br>",
-        "use": "1010001111110001000000000000"
+        "song_name": "Endless Chain",
+        "use": "1010001111110001000000000000",
+        "artist_name":"フェイト・T・ハラオウン",
+        "JOYURL":"223227",
+        "DAMURL":""
     },
     {
         "song_name": "魔法の言葉~Lyrical harmony~ (SkyHigh Edition)",
-        "use": "0000100000000000000000000000"
+        "use": "0000100000000000000000000000",
+        "artist_name":"高町なのは",
+        "JOYURL":"",
+        "DAMURL":""
     },
     {
         "song_name": "Present (Sweet honey mix)",
-        "use": "0000100000000000000000000000"
+        "use": "0000100000000000000000000000",
+        "artist_name":"フェイト・T・ハラオウン",
+        "JOYURL":"",
+        "DAMURL":""
     },
     {
         "song_name": "空色の約束 (Heartful ver)",
-        "use": "0000100000000000000000000000"
+        "use": "0000100000000000000000000000",
+        "artist_name":"スバル・ナカジマ",
+        "JOYURL":"",
+        "DAMURL":""
     },
     {
         "song_name": "2人の翼 (Rising mix)",
-        "use": "0000100000000000000000000000"
+        "use": "0000100000000000000000000000",
+        "artist_name":"ティアナ・ランスター",
+        "JOYURL":"",
+        "DAMURL":""
     },
     {
         "song_name": "星に祈りを (Kuru×2 mix)",
-        "use": "0000100000000000000000000000"
+        "use": "0000100000000000000000000000",
+        "artist_name":"八神はやて",
+        "JOYURL":"",
+        "DAMURL":""
     },
     {
         "song_name": "いつの日にか (Ballade mix)",
-        "use": "0000100000000000000000000000"
+        "use": "0000100000000000000000000000",
+        "artist_name":"キャロ・ル・ルシエ",
+        "JOYURL":"",
+        "DAMURL":""
     },
     {
         "song_name": "Endless Chain (Glory Graduation ver)",
-        "use": "0000100000000000000000000000"
+        "use": "0000100000000000000000000000",
+        "artist_name":"フェイト・T・ハラオウン",
+        "JOYURL":"",
+        "DAMURL":""
     },
     {
         "song_name": "あなたの笑顔に (Pia ver)",
-        "use": "0000100000000000000000000000"
+        "use": "0000100000000000000000000000",
+        "artist_name":"高町なのは",
+        "JOYURL":"",
+        "DAMURL":""
     },
     {
         "song_name": "真紅の花 (Beat mix)",
-        "use": "0000100000000000000000000000"
+        "use": "0000100000000000000000000000",
+        "artist_name":"ヴィータ",
+        "JOYURL":"",
+        "DAMURL":""
     },
     {
         "song_name": "あなたを想う (Holy Sing ver)",
-        "use": "0000100000000000000000000000"
+        "use": "0000100000000000000000000000",
+        "artist_name":"八神はやて",
+        "JOYURL":"",
+        "DAMURL":""
     },
     {
         "song_name": "小さな誓い (Acoustic ver)",
-        "use": "0000100000000000000000000000"
+        "use": "0000100000000000000000000000",
+        "artist_name":"リインフォースⅡ",
+        "JOYURL":"",
+        "DAMURL":""
     },
     {
         "song_name": "To The Real (Brave mix)",
-        "use": "0000100000000000000000000000"
+        "use": "0000100000000000000000000000",
+        "artist_name":"スバル・ナカジマ<br>&ティアナ・ランスター<br>&エリオ・モンディアル<br>&キャロ・ル・ルシエ",
+        "JOYURL":"",
+        "DAMURL":""
     },
     {
-        "song_name": "My Friend<a href='https://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=2635-25'>DAM</a><br><br>",
-        "use": "0100000000000000111111111111"
+        "song_name": "My Friend",
+        "use": "0100000000000000111111111111",
+        "artist_name":"川田まみ",
+        "JOYURL":"",
+        "DAMURL":""
     },
     {
         "song_name": "小さな花を",
-        "use": "0000100000000000000000000000"
+        "use": "0000100000000000000000000000",
+        "artist_name":"高町なのは",
+        "JOYURL":"",
+        "DAMURL":""
     },
     {
         "song_name": "君がくれた奇跡",
-        "use": "0000100000000000000000000000"
+        "use": "0000100000000000000000000000",
+        "artist_name":"フェイト・T・ハラオウン",
+        "JOYURL":"",
+        "DAMURL":""
     },
     {
         "song_name": "Snow Rain ~Ver.Holy Night~",
-        "use": "0000100000000000000000000000"
+        "use": "0000100000000000000000000000",
+        "artist_name":"八神はやて",
+        "JOYURL":"",
+        "DAMURL":""
     },
     {
-        "song_name": "Snow Rain (Ver.Blessing Wind)<br><a href='https://www.joysound.com/web/search/song/255117'>JOYSOUND</a>　<a href='https://www.clubdam.com/app/leaf/songKaraokeLeaf.html?contentsId=5385394'>DAM</a><br><br>",
-        "use": "1111001111110111011110001000"
+        "song_name": "Snow Rain (Ver.Blessing Wind)",
+        "use": "1111001111110111011110001000",
+        "artist_name":"八神はやて<br>&リインフォース",
+        "JOYURL":"255117",
+        "DAMURL":"5385394"
     },
     {
         "song_name": "Snow Rain (Ver.eins)",
-        "use": "0000100000000000000000000000"
+        "use": "0000100000000000000000000000",
+        "artist_name":"リインフォース",
+        "JOYURL":"",
+        "DAMURL":""
     },
     {
         "song_name": "Snow Rain (Ver.Zwei)",
-        "use": "0000100000000000000000000000"
+        "use": "0000100000000000000000000000",
+        "artist_name":"リインフォースⅡ",
+        "JOYURL":"",
+        "DAMURL":""
     },
     {
         "song_name": "勇気の翼",
-        "use": "0000100000000000000000000000"
+        "use": "0000100000000000000000000000",
+        "artist_name":"高町なのは",
+        "JOYURL":"",
+        "DAMURL":""
     },
     {
         "song_name": "願いの蕾",
-        "use": "0000100000000000000000000000"
+        "use": "0000100000000000000000000000",
+        "artist_name":"フェイト・T・ハラオウン",
+        "JOYURL":"",
+        "DAMURL":""
     },
     {
-        "song_name": "真夏のHoney Days<br><a href='https://www.joysound.com/web/search/song/636990'>JOYSOUND</a><br><br>",
-        "use": "1000000111110101000000000000"
+        "song_name": "真夏のHoney Days",
+        "use": "1000000111110101000000000000",
+        "artist_name":"高町なのは",
+        "JOYURL":"636990",
+        "DAMURL":""
     },
     {
-        "song_name": "Daylight on Brave<br><a href='https://www.joysound.com/web/search/song/711893'>JOYSOUND</a><br><br>",
-        "use": "1000001111111111000000000000"
+        "song_name": "Daylight on Brave",
+        "use": "1000001111111111000000000000",
+        "artist_name":"キリエ・フローリアン",
+        "JOYURL":"711893",
+        "DAMURL":""
     },
     {
-        "song_name": "暁の祈り<br><a href='https://www.joysound.com/web/search/song/721289'>JOYSOUND</a><br><br>",
-        "use": "1000001111111111000000000000"
+        "song_name": "暁の祈り",
+        "use": "1000001111111111000000000000",
+        "artist_name":"ディアーチェ",
+        "JOYURL":"721289",
+        "DAMURL":""
     },
     {
-        "song_name": "守りたい世界<br><a href='https://www.joysound.com/web/search/song/721290'>JOYSOUND</a><br><br>",
-        "use": "1000001111111111000000000000"
+        "song_name": "守りたい世界",
+        "use": "1000001111111111000000000000",
+        "artist_name":"高町なのは",
+        "JOYURL":"721290",
+        "DAMURL":""
     },
     {
-        "song_name": "小さな魔法~Lyrical Flower~<br><a href='https://www.joysound.com/web/search/song/721291'>JOYSOUND</a><br><br>",
-        "use": "1000001111111111000000000000"
+        "song_name": "小さな魔法~Lyrical Flower~",
+        "use": "1000001111111111000000000000",
+        "artist_name":"高町なのは",
+        "JOYURL":"721291",
+        "DAMURL":""
     },
     {
-        "song_name": "Share the world<br><a href='https://www.joysound.com/web/search/song/553697'>JOYSOUND</a><br><br>",
-        "use": "1000000111110101000000000000"
+        "song_name": "Share the world",
+        "use": "1000000111110101000000000000",
+        "artist_name":"IKU",
+        "JOYURL":"553697",
+        "DAMURL":""
     },
     {
         "song_name": "Keep on!!",
-        "use": "0000100000000000000000000000"
+        "use": "0000100000000000000000000000",
+        "artist_name":"柚子乃<br>&RINA",
+        "JOYURL":"",
+        "DAMURL":""
     },
     {
         "song_name": "明日への風",
-        "use": "0000100000000000000000000000"
+        "use": "0000100000000000000000000000",
+        "artist_name":"フーカ・レヴェントン",
+        "JOYURL":"",
+        "DAMURL":""
     },
     {
         "song_name": "Shiny Sky Memories",
-        "use": "0000100000000000000000000000"
+        "use": "0000100000000000000000000000",
+        "artist_name":"リンネ・ベルリネッタ",
+        "JOYURL":"",
+        "DAMURL":""
     },
     {
-        "song_name": "いつか逢えるから<br><a href='https://www.joysound.com/web/search/song/811996'>JOYSOUND</a><br><br>",
-        "use": "1000000011110111000000000000"
+        "song_name": "いつか逢えるから",
+        "use": "1000000011110111000000000000",
+        "artist_name":"八神はやて<br>&リインフォース",
+        "JOYURL":"811996",
+        "DAMURL":""
     },
     {
-        "song_name": "Winds on hope~荒野の果てへ~<br><a href='https://www.joysound.com/web/search/song/811997'>JOYSOUND</a><br><br>",
-        "use": "1010000011110111000000000000"
+        "song_name": "Winds on hope~荒野の果てへ~",
+        "use": "1010000011110111000000000000",
+        "artist_name":"イリス<br>&ユーリ",
+        "JOYURL":"811997",
+        "DAMURL":""
     },
     {
-        "song_name": "暁の祈り ~Ver.Trinity Hearts<br><a href='https://www.joysound.com/web/search/song/813393'>JOYSOUND</a><br><br>",
-        "use": "1010000011110111000000000000"
+        "song_name": "暁の祈り ~Ver.Trinity Hearts",
+        "use": "1010000011110111000000000000",
+        "artist_name":"ディアーチェ<br>&シュテル<br>&レヴィ",
+        "JOYURL":"813393",
+        "DAMURL":""
     },
     {
-        "song_name": "Brand new Days<br><a href='https://www.joysound.com/web/search/song/793589'>JOYSOUND</a><br><br>",
-        "use": "1010000011110111000000000000"
-    }
+        "song_name": "Brand new Days",
+        "use": "1010000011110111000000000000",
+        "artist_name":"高町なのは<br>&フェイト・T・ハラオウン",
+        "JOYURL":"793589",
+        "DAMURL":""}
 ]
