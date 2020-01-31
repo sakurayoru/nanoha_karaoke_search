@@ -14,31 +14,37 @@ function song_button(){
         const j = result[i].use // use 取り出し
         let k = j.match(/.{1}/g) // 1桁区切り
         if (k[id] == 1) {
-            ok += "<div class='mb1'>"
-            ok += result[i].song_name
-            ok += "<br>"
-            ok += result[i].artist_name
-            
-            if(result[i].JOYURL || result[i].DAMURL){
-                ok+= "<br>"
+            if (j=="1111111111111111111111111111") {
+                ok += "<h3>"
+                ok += result[i].song_name
+                ok += "</h3>"
+            } else {
+                ok += "<div class='mb1'>"
+                ok += result[i].song_name
+                ok += "<br>"
+                ok += result[i].artist_name
+                
+                if(result[i].JOYURL || result[i].DAMURL){
+                    ok+= "<br>"
+                }
+                
+                if (result[i].JOYURL) {
+                    ok += "<a href='"
+                    ok += "https://www.joysound.com/web/search/song/"
+                    ok += result[i].JOYURL
+                    ok += "'>JOYSOUND</a>"
+                }
+                if(result[i].JOYURL && result[i].DAMURL){
+                    ok+= "　"
+                }
+                if(result[i].DAMURL) {
+                    ok += "<a href='"
+                    ok += "https://www.clubdam.com/app/leaf/songKaraokeLeaf.html?contentsId="
+                    ok += result[i].DAMURL
+                    ok += "'>DAM</a>"
+                }
+                ok+= "</div>"
             }
-            
-            if (result[i].JOYURL) {
-                ok += "<a href='"
-                ok += "https://www.joysound.com/web/search/song/"
-                ok += result[i].JOYURL
-                ok += "'>JOYSOUND</a>"
-            }
-            if(result[i].JOYURL && result[i].DAMURL){
-                ok+= "　"
-            }
-            if(result[i].DAMURL) {
-                ok += "<a href='"
-                ok += "https://www.clubdam.com/app/leaf/songKaraokeLeaf.html?contentsId="
-                ok += result[i].DAMURL
-                ok += "'>DAM</a>"
-            }
-            ok+= "</div>"
         }
         document.getElementById("songs").innerHTML = ok
     }
