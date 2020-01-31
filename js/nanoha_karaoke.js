@@ -18,8 +18,13 @@ function song_button(){
             ok += result[i].song_name
             ok += "<br>"
             ok += result[i].artist_name
+            
+            if(result[i].JOYURL || result[i].DAMURL){
+                ok+= "<br>"
+            }
+            
             if (result[i].JOYURL) {
-                ok += "<br><a href='"
+                ok += "<a href='"
                 ok += "https://www.joysound.com/web/search/song/"
                 ok += result[i].JOYURL
                 ok += "'>JOYSOUND</a>"
