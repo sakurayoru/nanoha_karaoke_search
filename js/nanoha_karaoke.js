@@ -43,7 +43,6 @@ function song_button(){
 window.onload=function(){
     URL="https://nanoha-karaoke-search.netlify.com/"
     TITLE="機種別なのは楽曲リスト表示システム"
-    URL+="?openExternalBrowser=1"
     twitter="https://twitter.com/intent/tweet"+
     `?text=${TITLE}%0A`+
     `&url=${URL}`+
@@ -52,16 +51,17 @@ window.onload=function(){
     `&url=${URL}`
     FB="https://www.facebook.com/share.php"+
     `?u=${URL}`
-    LINE="https://social-plugins.line.me/lineit/share"+
-    `?text=${TITLE}%0A&url=${URL}`
     hatena="https://b.hatena.ne.jp/entry/panel/?mode="+
     `confirm&title${TITLE}%0A&url=${URL}`
+    URL+="?openExternalBrowser=1"
+    LINE="https://social-plugins.line.me/lineit/share"+
+    `?text=${TITLE}%0A&url=${URL}`
 
     share="<a href='"+
     `${twitter}'>Twitter</a>　<a href='`+
     `${FB}'>FaceBook</a>　<a href='`+
-    `${LINE}'>LINE</a>　<a href='`+
-    `${hatena}'>hatena</a>`
+    `${hatena}'>hatena</a>　<a href='`+
+    `${LINE}'>LINE</a>`
     document.getElementById("top-share").innerHTML=share
     document.getElementById("buttom-share").innerHTML=share
 }
