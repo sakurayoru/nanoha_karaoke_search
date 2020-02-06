@@ -4,11 +4,47 @@ request.open('GET', requestURL)
 request.responseType = 'json'
 request.send()
 
+function JOYID(i){
+    result=request.response[i]
+    joyno = `${result.song_name}の選曲Noリストです。\n`
+    if (result.JOYpersonal) {
+        joyno += `本人映像\n`
+        joyno += `${result.JOYpersonal}\n`
+    }
+    if (result.JOYstandard){
+        joyno += `スタンダード\n`
+        joyno += `${result.JOYstandard}\n`
+    }
+    if (result.JOYguiter){
+        joyno += `ギタナビ\n`
+        joyno += `${result.JOYguiter}\n`
+    }
+    if (result.JOYhome) {
+        joyno += `家庭用カラオケ\n`
+        joyno += `${result.JOYhome}\n`
+    }
+    joyno += `\n${result.song_name}の詳細ページに移動しますか?`
+    joyurl=`https://www.joysound.com/web/search/song/${result.JOYURL}`
+    if (window.confirm(joyno)) {
+        window.open(joyurl)
+  }
+}
+
+function DAMID(i){
+    result=request.response[i]
+    damno = `${result.song_name}のリクエストNoです。\n`
+    damno += `${result.DAMrequest}\n`
+    damno += `\n${result.song_name}の詳細ページに移動しますか?`
+    damurl=`https://www.clubdam.com/app/leaf/songKaraokeLeaf.html?contentsId=${result.DAMURL}`
+    if (window.confirm(damno)) {
+        window.open(damurl);
+  }
+}
+
 function song_button(){
-    let id="",use="",ok=""
+    let id="",use="",ok="",l=0
     var result = request.response
     id =document.getElementById("device").selectedIndex
-    var result = request.response
     var nor = Object.keys(result).length
     for (let i = 0; i < nor; i++) {
         const j = result[i].use // use 取り出し
@@ -29,19 +65,13 @@ function song_button(){
                 }
                 
                 if (result[i].JOYURL) {
-                    ok += "<a href='"
-                    ok += "https://www.joysound.com/web/search/song/"
-                    ok += result[i].JOYURL
-                    ok += "'>JOYSOUND</a>"
+                    ok += `<button onclick="JOYID(${i})">JOYSOUND</button>`
                 }
                 if(result[i].JOYURL && result[i].DAMURL){
                     ok+= "　"
                 }
                 if(result[i].DAMURL) {
-                    ok += "<a href='"
-                    ok += "https://www.clubdam.com/app/leaf/songKaraokeLeaf.html?contentsId="
-                    ok += result[i].DAMURL
-                    ok += "'>DAM</a>"
+                    ok += `<button onclick="DAMID(${i})">DAM</button>`
                 }
                 ok+= "</div>"
             }
@@ -49,7 +79,6 @@ function song_button(){
         document.getElementById("songs").innerHTML = ok
     }
 }
-
 
 window.onload=function(){
     URL="https://nanoha-karaoke-search.netlify.com/"
