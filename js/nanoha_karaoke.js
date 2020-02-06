@@ -32,9 +32,9 @@ function JOYID(i){
 
 function DAMID(i){
     result=request.response[i]
-    damno = `${result.song_name}のリクエストNoです。\n`
+    damno = `${result.song_name}の詳細ページに移動しますか?\n`
+    damno += `下記は${result.song_name}のリクエストNoです。\n`
     damno += `${result.DAMrequest}\n`
-    damno += `\n${result.song_name}の詳細ページに移動しますか?`
     damurl=`https://www.clubdam.com/app/leaf/songKaraokeLeaf.html?contentsId=${result.DAMURL}`
     if (window.confirm(damno)) {
         window.open(damurl);
