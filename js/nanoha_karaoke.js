@@ -6,7 +6,8 @@ request.send()
 
 function JOYID(i){
     result=request.response[i]
-    joyno = `${result.song_name}の選曲Noリストです。\n`
+    joyno = `${result.song_name}の詳細ページに移動しますか?\n`
+    joyno += `下記は${result.song_name}の選曲Noリストです。\n`
     if (result.JOYpersonal) {
         joyno += `本人映像\n`
         joyno += `${result.JOYpersonal}\n`
@@ -23,7 +24,6 @@ function JOYID(i){
         joyno += `家庭用カラオケ\n`
         joyno += `${result.JOYhome}\n`
     }
-    joyno += `\n${result.song_name}の詳細ページに移動しますか?`
     joyurl=`https://www.joysound.com/web/search/song/${result.JOYURL}`
     if (window.confirm(joyno)) {
         window.open(joyurl)
