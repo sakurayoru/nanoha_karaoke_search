@@ -854,7 +854,7 @@
     {
         "song_name": "To The Real",
         "use": "1010011111110000000000000000",
-        "artist_name":"スバル・ナカジマ&ティアナ・ランスター&エリオ・モンディアル&キャロ・ル・ルシエ",
+        "artist_name":"スバル・ナカジマ<br>&ティアナ・ランスター<br>&エリオ・モンディアル<br>&キャロ・ル・ルシエ",
         "JOYURL":"152422",
         "JOYpersonal":"",
         "JOYstandard":"129725",
@@ -1010,7 +1010,7 @@
     {
         "song_name": "To The Real (Brave mix)",
         "use": "0000100000000000000000000000",
-        "artist_name":"スバル・ナカジマ&ティアナ・ランスター&エリオ・モンディアル&キャロ・ル・ルシエ",
+        "artist_name":"スバル・ナカジマ<br>&ティアナ・ランスター<br>&エリオ・モンディアル<br>&キャロ・ル・ルシエ",
         "JOYURL":"",
         "JOYpersonal":"",
         "JOYstandard":"",
@@ -1070,7 +1070,7 @@
     {
         "song_name": "Snow Rain (Ver.Blessing Wind)",
         "use": "1111001111110111011110001000",
-        "artist_name":"八神はやて&リインフォース",
+        "artist_name":"八神はやて<br>&リインフォース",
         "JOYURL":"255117",
         "JOYpersonal":"",
         "JOYstandard":"726088",
@@ -1202,7 +1202,7 @@
     {
         "song_name": "Keep on!!",
         "use": "0000100000000000000000000000",
-        "artist_name":"柚子乃&RINA",
+        "artist_name":"柚子乃<br>&RINA",
         "JOYURL":"",
         "JOYpersonal":"",
         "JOYstandard":"",
@@ -1238,7 +1238,7 @@
     {
         "song_name": "いつか逢えるから",
         "use": "1000000011110111000000000000",
-        "artist_name":"八神はやて&リインフォース",
+        "artist_name":"八神はやて<br>&リインフォース",
         "JOYURL":"811996",
         "JOYpersonal":"",
         "JOYstandard":"445528",
@@ -1250,7 +1250,7 @@
     {
         "song_name": "Winds on hope~荒野の果てへ~",
         "use": "1010000011110111000000000000",
-        "artist_name":"イリス&ユーリ",
+        "artist_name":"イリス<br>&ユーリ",
         "JOYURL":"811997",
         "JOYpersonal":"",
         "JOYstandard":"445527",
@@ -1262,7 +1262,7 @@
     {
         "song_name": "暁の祈り ~Ver.Trinity Hearts",
         "use": "1010000011110111000000000000",
-        "artist_name":"ディアーチェ&シュテル&レヴィ",
+        "artist_name":"ディアーチェ<br>&シュテル<br>&レヴィ",
         "JOYURL":"813393",
         "JOYpersonal":"",
         "JOYstandard":"445525",
@@ -1274,7 +1274,7 @@
     {
         "song_name": "Brand new Days",
         "use": "1010000011110111000000000000",
-        "artist_name":"高町なのは&フェイト・T・ハラオウン",
+        "artist_name":"高町なのは<br>&フェイト・T・ハラオウン",
         "JOYURL":"793589",
         "JOYpersonal":"",
         "JOYstandard":"445532",
